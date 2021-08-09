@@ -36,3 +36,4 @@ Basically, feel free to use and re-use any way you want.
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
 - Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
 # chatrsjs_laravel1
+# laravelchartsjs
